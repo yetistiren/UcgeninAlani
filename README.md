@@ -1,0 +1,2 @@
+# UcgeninAlani
+Üçgenin Alanının Hesaplanması
